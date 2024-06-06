@@ -1,6 +1,7 @@
 console.log("hello world");
 console.log("Welcome to Employee Wage Computation Program on Master Branch");
-		const present=1;
+
+                const present=1;
 		const parttime=2;
 		const salaryperhour=20;
         	var workinghours;
